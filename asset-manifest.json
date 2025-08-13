@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09fea304.css",
+    "main.js": "/static/js/main.6156feee.js",
+    "static/js/453.561f600c.chunk.js": "/static/js/453.561f600c.chunk.js",
+    "static/media/carb.jpg": "/static/media/carb.6c079054236734f7ede8.jpg",
+    "static/media/food.jpg": "/static/media/food.f5132ee3d872f050afbb.jpg",
+    "static/media/vehicle.jpg": "/static/media/vehicle.1e0dcb98873ae73c2edc.jpg",
+    "static/media/public.jpg": "/static/media/public.871d13ab4baea37789a9.jpg",
+    "static/media/flights.jpg": "/static/media/flights.34661fbff7857e1d6eca.jpg",
+    "static/media/expenditure.jpg": "/static/media/expenditure.1e7fff9dd2c6bb4a9aa3.jpg",
+    "static/media/home.jpg": "/static/media/home.b1d00ecd7f5bb6653665.jpg",
+    "static/media/login.jpg": "/static/media/login.f98953b0d4fa45ef3505.jpg",
+    "static/media/signup.jpg": "/static/media/signup.5fe8ec967003dadc599c.jpg",
+    "static/media/maps_ss.png": "/static/media/maps_ss.4e37b37c2b85a300af51.png",
+    "static/media/prelogin.jpg": "/static/media/prelogin.a4eb01ec89382ba3b4bb.jpg",
+    "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.7c5aca8a8c320a8df026.ttf",
+    "static/media/image_1.jpg": "/static/media/image_1.964b928cef38080b1a8b.jpg",
+    "static/media/calc_ss.png": "/static/media/calc_ss.815ca2a2bbf2c52e3a1a.png",
+    "static/media/PlusJakartaSans-Bold.ttf": "/static/media/PlusJakartaSans-Bold.542d4930de15d99be736.ttf",
+    "static/media/scorecard_ss.png": "/static/media/scorecard_ss.2fbe49cffeb82c90c6d8.png",
+    "static/media/targets_ss.png": "/static/media/targets_ss.e035baef323842b92a2b.png",
+    "static/media/pap_ss.png": "/static/media/pap_ss.ccc898aa447f06148b14.png",
+    "static/media/home_ss.png": "/static/media/home_ss.9a1036cf8c2759ad2e05.png",
+    "static/media/leaderboard_ss.png": "/static/media/leaderboard_ss.4f676ca547bed05153bc.png",
+    "static/media/analytics_ss.png": "/static/media/analytics_ss.81f932029220e20a3b8d.png",
+    "static/media/Ecolibrium_Logo.png": "/static/media/Ecolibrium_Logo.b8a8a699fbbabfe46d22.png",
+    "index.html": "/index.html",
+    "main.09fea304.css.map": "/static/css/main.09fea304.css.map",
+    "main.6156feee.js.map": "/static/js/main.6156feee.js.map",
+    "453.561f600c.chunk.js.map": "/static/js/453.561f600c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09fea304.css",
+    "static/js/main.6156feee.js"
+  ]
+}
